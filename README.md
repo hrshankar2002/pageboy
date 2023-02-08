@@ -1,16 +1,26 @@
-# firebase_proj_1
-
-A new Flutter project.
-
+# Page Boy Material Application
+## Description
+```
+A flutter material app with realtime firebase backend services to keep track of all errands of a community.
+```
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Dependencies
+```
+* firebase_core: ^2.4.1
+* firebase_auth: ^4.2.5
+* cloud_firestore: ^4.3.1
+* flutter_launcher_icons: ^0.11.0
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![img5](https://user-images.githubusercontent.com/104988861/217524681-c747f278-0505-44c4-a08d-b96dc61e6d8d.jpeg)
+![img2](https://user-images.githubusercontent.com/104988861/217524715-1affac26-6e36-498c-a874-7411e58893a4.jpeg)
+![img3](https://user-images.githubusercontent.com/104988861/217524738-5f75c8f2-fbcf-4c0c-b00b-784efda8066c.jpeg)
+![img4](https://user-images.githubusercontent.com/104988861/217524766-c8efb85d-5521-444f-9ba7-ac26c3bb687c.jpeg)
+![img1](https://user-images.githubusercontent.com/104988861/217524787-217ad19f-6a41-4f7c-9295-a7d48c4d5eed.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Help
+```
+* Refer above for advised dependency versions.
+```
